@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/user-photo-face-finder/static/css/main.f24ce608.chunk.css",
+    "main.js": "/user-photo-face-finder/static/js/main.85b9f986.chunk.js",
+    "main.js.map": "/user-photo-face-finder/static/js/main.85b9f986.chunk.js.map",
+    "runtime~main.js": "/user-photo-face-finder/static/js/runtime~main.29520e9e.js",
+    "runtime~main.js.map": "/user-photo-face-finder/static/js/runtime~main.29520e9e.js.map",
+    "static/css/2.31dafeb2.chunk.css": "/user-photo-face-finder/static/css/2.31dafeb2.chunk.css",
+    "static/js/2.29ebcc07.chunk.js": "/user-photo-face-finder/static/js/2.29ebcc07.chunk.js",
+    "static/js/2.29ebcc07.chunk.js.map": "/user-photo-face-finder/static/js/2.29ebcc07.chunk.js.map",
+    "index.html": "/user-photo-face-finder/index.html",
+    "precache-manifest.5e02f4afabcc10f6da3a62d84307ff0d.js": "/user-photo-face-finder/precache-manifest.5e02f4afabcc10f6da3a62d84307ff0d.js",
+    "service-worker.js": "/user-photo-face-finder/service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "/user-photo-face-finder/static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.f24ce608.chunk.css.map": "/user-photo-face-finder/static/css/main.f24ce608.chunk.css.map"
+  }
+}
