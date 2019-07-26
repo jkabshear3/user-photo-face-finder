@@ -1,0 +1,14 @@
+.title {
+	text-align: center;
+	font-family: 'B612 Mono', monospace;
+}
+
+.signOut {
+	text-align: right;
+	margin-right: 40px;
+}
+
+.signOut:hover {
+	text-decoration: underline;
+	cursor: pointer;
+}

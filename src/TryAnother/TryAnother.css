@@ -1,0 +1,27 @@
+.tryAnother {
+	text-align: center;
+}
+
+.try {
+	display: inline-block;
+  -webkit-box-sizing: content-box;
+  -moz-box-sizing: content-box;
+  box-sizing: content-box;
+  cursor: pointer;
+  opacity: 0.82;
+  padding: 15px 25px;
+  border: none;
+  -webkit-border-radius: 8px;
+  border-radius: 8px;
+  font: normal normal bold "Courier New", Courier, monospace;
+  color: rgba(255,255,255,0.9);
+  text-indent: 4px;
+  -o-text-overflow: clip;
+  text-overflow: clip;
+  letter-spacing: 2px;
+  word-spacing: 4px;
+  background: rgba(2,70,216,0.6);
+  -webkit-box-shadow: 2px 2px 2px 1px rgba(0,0,0,0.5) ;
+  box-shadow: 2px 2px 2px 1px rgba(0,0,0,0.5) ;
+	outline: none;
+}

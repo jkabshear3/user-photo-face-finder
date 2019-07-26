@@ -1,0 +1,27 @@
+.druid {
+	text-align: center;
+	}
+
+.PictureBox {
+	position: absolute;
+	margin-top: 60px;
+}
+
+.box {
+	position: absolute;
+	border: 4px double #2E11E1;
+	border-radius: 2px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	float: center;
+	}
+
+#imagine {
+	border: 6px outset rgba(150,0,0,0.5);
+	box-shadow: 4px 4px 5px;
+	margin: 20px;
+	margin-bottom: 30px;
+	font-size: 23px;
+	font-family: 'Concert One', cursive;
+}
