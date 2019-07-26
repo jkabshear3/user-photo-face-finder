@@ -29,7 +29,7 @@ class RegisterPage extends React.Component {
 		}
 
 		onSubmit = () => {
-		fetch('http://localhost:3001/register', {
+		/*fetch('http://localhost:3001/register', {
 			method: 'post',
 			headers: {'Content-Type': 'application/json'},
 			body: JSON.stringify({
@@ -46,7 +46,8 @@ class RegisterPage extends React.Component {
 				this.props.onRouteChange("home")
 			}
 			
-		})
+		})*/
+		this.props.onRouteChange("home")
 		
 	}
 
